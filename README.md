@@ -40,14 +40,24 @@ I also have experience with **HTML**, **CSS**, **React**, **FastAPI**, **Git** a
      style="margin-top: 40px;" alt="character"/>
 
 <br clear="right"/>
+<table>
+  <tr>
+    <td valign="top" width="50%">
 
-◈ Class → BackEnd Developer<br>
-◈ Origin → Brazil<br>
-◈ Covenant → Open Source<br>
-◈ Build → INT / STR<br>
+◈ Class → BackEnd Developer  
+◈ Origin → Brazil  
+◈ Covenant → Open Source  
+◈ Build → INT / STR  
 ◈ Status → Hunter. Refuses to go hollow.
-  
+
 ---
+  </td>
+    <td align="right">
+      <img src="./char.jpg" width="300"/>
+    </td>
+  </tr>
+</table>
+
 
 ## Technologies
 
