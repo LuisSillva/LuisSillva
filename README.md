@@ -32,7 +32,7 @@
 
 > *"We are born of the blood, made men by the blood, undone by the blood."*
 
-Currently deepening my studies in **Python**, **SQL** and **Web Development**, applying this knowledge to project based learning projects, such as — automation bots, portfolios, and web tools.
+Currently deepening my studies in **Python**, **SQL** and **Web Development** by building practical projects, such as — automation bots, portfolios, and web tools.
 
 I also have experience with **HTML**, **CSS**, **React**, **FastAPI**, **Git** and am currently exploring **AI automation**.
 
