@@ -36,7 +36,8 @@ Currently deepening my studies in **Python**, **SQL** and **Web Development** by
 
 I also have experience with **HTML**, **CSS**, **React**, **FastAPI**, **Git** and am currently exploring **AI automation**.
 
-<img align="right" width="240px" src="./char.jpg" alt="character" alt="character"/>
+<img align="right" width="280px" src="./char.jpg"
+     style="margin-top: 40px;" alt="character"/>
 
 <br clear="right"/>
 
