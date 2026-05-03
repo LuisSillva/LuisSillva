@@ -51,14 +51,13 @@ I also have experience with **HTML**, **CSS**, **React**, **FastAPI**, **Git** a
 ◈ Build → INT / STR  
 ◈ Status → Hunter. Refuses to go hollow.
 
----
   </td>
-    <td align="right">
+    <td align="right" width="50%">
       <img src="./char.jpg" width="300"/>
     </td>
   </tr>
 </table>
-
+---
 
 ## Technologies
 
