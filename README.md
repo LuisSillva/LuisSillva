@@ -41,12 +41,19 @@ I also have experience with **HTML**, **CSS**, **React**, **FastAPI**, **Git** a
 
 <br clear="right"/>
 
-◈ Class     →  BackEnd Developer<br>
-◈ Origin    →  Brazil<br>
-◈ Covenant  →  Open Source<br>
-◈ Build     →  INT / STR<br>
-◈ Status    →  Hunter. Refuses to go hollow.
+<div style="display: flex; align-items: flex-start;">
 
+  <div style="flex: 1;">
+    ◈ Class → BackEnd Developer<br>
+    ◈ Origin → Brazil<br>
+    ◈ Covenant → Open Source<br>
+    ◈ Build → INT / STR<br>
+    ◈ Status → Hunter. Refuses to go hollow.
+  </div>
+
+  <img src="./char.jpg" width="260px" style="margin-left: 30px; border-radius: 12px;" />
+
+</div>
 ---
 
 ## Technologies
