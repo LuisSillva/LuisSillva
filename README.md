@@ -16,7 +16,7 @@
   <code>> print("Hello World! I'm Luís Silva.")</code>
   <p>
   I'm a Computer Science student currently learning <b>backend development</b> with Python using project-based learning, with a growing interest in <b>Cybersecurity</b> and <b>AI Automation</b>.
-  <br><br>
+  <br><br><br><br>
   Currently focused on building small but practical projects to strengthen my backend fundamentals, especially working with APIs, databases, and improving my problem-solving skills.
   </p>
   </div>
