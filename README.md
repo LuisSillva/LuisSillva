@@ -1,6 +1,6 @@
 <!-- BANNER -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/LuisSilva/LuisSilva/main/banner.jpg" width="100%" alt="banner"/>
+  <img src="./banner.jpg" alt="character" width="100%" alt="banner"/>
 </div>
 
 <!-- TITLE -->
@@ -32,20 +32,19 @@
 
 > *"We are born of the blood, made men by the blood, undone by the blood."*
 
-Currently deepening my studies in **Python**, **SQL** and **Web Development**, applying this knowledge to real personal projects — automation bots, portfolios, and web tools.
+Currently deepening my studies in **Python**, **SQL** and **Web Development**, applying this knowledge to project based learning projects, such as — automation bots, portfolios, and web tools.
 
 I also have experience with **HTML**, **CSS**, **React**, **FastAPI**, **Git** and am currently exploring **AI automation**.
 
-<img align="right" width="240px" src="https://raw.githubusercontent.com/LuisSilva/LuisSilva/main/char.jpg" alt="character"/>
+<img align="right" width="240px" src="./char.jpg" alt="character" alt="character"/>
 
 <br clear="right"/>
 
-
-◈  Class     →  BackEnd Developer
-◈  Origin    →  Brazil
-◈  Covenant  →  Open Source
-◈  Build     →  INT / STR
-◈  Status    →  Hunter. Refuses to go hollow.
+◈ Class     →  BackEnd Developer<br>
+◈ Origin    →  Brazil<br>
+◈ Covenant  →  Open Source<br>
+◈ Build     →  INT / STR<br>
+◈ Status    →  Hunter. Refuses to go hollow.
 
 ---
 
