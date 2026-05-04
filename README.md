@@ -1,6 +1,6 @@
 <!-- BANNER -->
 <div align="center">
-  <img src="./banner.jpg" alt="character" width="100%" alt="banner"/>
+  <img src="./banner.gif" alt="character" width="100%" alt="banner"/>
 </div>
 
 <!-- TITLE -->
