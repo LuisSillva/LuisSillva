@@ -40,14 +40,15 @@ I also have experience with **HTML**, **CSS**, **React**, **FastAPI**, **Git** a
      style="margin-top: 40px;" alt="character"/>
 
 ```
-◈  Class     →  Backend / Full-Stack Apprentice
-◈  Origin    →  Brazil 🇧🇷
+◈  Class     →  Backend
+◈  Origin    →  Brazil
 ◈  Covenant  →  Open Source
-◈  Build     →  INT / DEX
+◈  Build     →  STR / INT
 ◈  Status    →  Hunter. Refuses to go hollow.
 ```
 
 <br clear="right"/>
+
 ---
 
 ## Technologies
