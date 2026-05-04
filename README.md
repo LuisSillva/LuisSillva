@@ -18,13 +18,13 @@
 </div>
 
 <br/>
-
+<!--
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=LuisSilva&style=flat-square&color=c9a84c&label=PROFILE+VIEWS)
 
 </div>
-
+-->
 ---
 
 **BackEnd Developer**
