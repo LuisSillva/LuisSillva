@@ -36,27 +36,18 @@ Currently deepening my studies in **Python**, **SQL** and **Web Development** by
 
 I also have experience with **HTML**, **CSS**, **React**, **FastAPI**, **Git** and am currently exploring **AI automation**.
 
-<!--
 <img align="right" width="280px" src="./char.jpg"
      style="margin-top: 40px;" alt="character"/>
--->
+
+```
+◈  Class     →  Backend / Full-Stack Apprentice
+◈  Origin    →  Brazil 🇧🇷
+◈  Covenant  →  Open Source
+◈  Build     →  INT / DEX
+◈  Status    →  Hunter. Refuses to go hollow.
+```
+
 <br clear="right"/>
-<table>
-  <tr>
-    <td valign="top" width="50%">
-
-◈ Class → BackEnd Developer  
-◈ Origin → Brazil  
-◈ Covenant → Open Source  
-◈ Build → INT / STR  
-◈ Status → Hunter. Refuses to go hollow.
-
-  </td>
-    <td align="right" width="50%">
-      <img src="./char.jpg" width="300"/>
-    </td>
-  </tr>
-</table>
 ---
 
 ## Technologies
