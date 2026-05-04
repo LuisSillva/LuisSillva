@@ -30,7 +30,7 @@
 
 **BackEnd Developer**
 
-> *"We are born of the blood, made men by the blood, undone by the blood."*
+> *"Rise if you would, for that is our curse."* 
 
 Currently deepening my knowledge of **Python**, **SQL** and **Web Development** through project-based learning, such as — automation bots, web tools and websites.
 
