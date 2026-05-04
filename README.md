@@ -36,8 +36,7 @@ Currently deepening my knowledge of **Python**, **SQL** and **Web Development** 
 
 I also have experience with **HTML**, **CSS**, **React**, **FastAPI**, **Git** and am currently exploring **AI automation**.
 
-<img align="right" width="240px" src="./char2.jpg"
-     style="margin-top: 40px;" alt="character"/>
+<img align="right" width="240px" src="./char2.jpg" alt="character"/>
 
 ```
 ◈  Class     →  Backend
