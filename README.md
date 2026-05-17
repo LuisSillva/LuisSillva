@@ -71,13 +71,13 @@ I also have experience with **HTML**, **CSS**, **React**, **FastAPI**, **Git** a
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=LuisSilva&theme=dark&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&background=0d0d0d&border=2a2a2a&stroke=2a2a2a&dates=888888&sideLabels=FFFFFF" alt="streak"/>
+<img src="https://streak-stats.demolab.com?user=LuisSillva&theme=dark&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&background=0d0d0d&border=2a2a2a&stroke=2a2a2a&dates=888888&sideLabels=FFFFFF" alt="streak"/>
 
 <br/><br/>
 
-<img height="165em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=LuisSilva&show_icons=true&theme=dark&title_color=FFFFFF&icon_color=FFFFFF&text_color=cccccc&bg_color=0d0d0d&border_color=2a2a2a&count_private=true"/>
+<img height="165em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=LuisSillva&show_icons=true&theme=dark&title_color=FFFFFF&icon_color=FFFFFF&text_color=cccccc&bg_color=0d0d0d&border_color=2a2a2a&count_private=true"/>
 
-<img height="165em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=LuisSilva&layout=compact&theme=dark&title_color=FFFFFF&text_color=cccccc&bg_color=0d0d0d&border_color=2a2a2a&count_private=true"/>
+<img height="165em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=LuisSillva&layout=compact&theme=dark&title_color=FFFFFF&text_color=cccccc&bg_color=0d0d0d&border_color=2a2a2a&count_private=true"/>
 
 </div>
 
@@ -87,7 +87,7 @@ I also have experience with **HTML**, **CSS**, **React**, **FastAPI**, **Git** a
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=LuisSilva&bg_color=0d0d0d&color=FFFFFF&line=FFFFFF&point=ffffff&area=true&area_color=1a1200&hide_border=false&border_color=2a2a2a&title_color=FFFFFF)](https://github.com/LuisSilva)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=LuisSillva&bg_color=0d0d0d&color=FFFFFF&line=FFFFFF&point=ffffff&area=true&area_color=1a1200&hide_border=false&border_color=2a2a2a&title_color=FFFFFF)](https://github.com/LuisSillva)
 
 </div>
 
@@ -106,7 +106,7 @@ I also have experience with **HTML**, **CSS**, **React**, **FastAPI**, **Git** a
 
 <div align="center">
 
-[![TaskManagerAPI](https://github-readme-stats.vercel.app/api/pin/?username=LuisSilva&repo=(https://github.com/LuisSillva/task-manager-api)&theme=dark&title_color=c9a84c&text_color=cccccc&bg_color=0d0d0d&border_color=2a2a2a&icon_color=c9a84c)](https://github.com/LuisSillva/task-manager-api)
+[![TaskManagerAPI](https://github-readme-stats.vercel.app/api/pin/?username=LuisSillva&repo=(https://github.com/LuisSillva/task-manager-api)&theme=dark&title_color=c9a84c&text_color=cccccc&bg_color=0d0d0d&border_color=2a2a2a&icon_color=c9a84c)](https://github.com/LuisSillva/task-manager-api)
 
 </div>
 
