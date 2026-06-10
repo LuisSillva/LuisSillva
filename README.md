@@ -106,7 +106,7 @@ I also have experience with **HTML**, **CSS**, **React**, **FastAPI**, **Git** a
 
 <div align="center">
 
-[![PersonalFinancesTracker](https://github-readme-stats.vercel.app/api/pin/?username=LuisSillva&repo=PersonalFinancesTracker&theme=dark&title_color=c9a84c&text_color=cccccc&bg_color=0d0d0d&border_color=2a2a2a&icon_color=c9a84c)](https://github.com/LuisSillva/PersonalFinancesTracker)
+[![PersonalFinancesTracker](https://github-readme-stats.vercel.app/api/pin/?username=LuisSillva&repo=PersonalFinancesTracker&theme=dark&title_color=2a2a2a&text_color=cccccc&bg_color=0d0d0d&border_color=2a2a2a&icon_color=2a2a2a)](https://github.com/LuisSillva/PersonalFinancesTracker)
 
 </div>
 
